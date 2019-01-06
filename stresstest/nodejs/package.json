@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "brorand": "^1.1.0",
+    "decode-uri-component": "^0.2.0",
+    "hash.js": "^1.1.7",
+    "hmac-drbg": "^1.0.1",
+    "inherits": "^2.0.3",
+    "is-typedarray": "^1.0.0",
+    "mime-db": "^1.37.0",
+    "mimic-response": "^1.0.1",
+    "minimalistic-assert": "^1.0.1",
+    "minimalistic-crypto-utils": "^1.0.1",
+    "ms": "^2.1.1",
+    "scrypt": "^6.0.3",
+    "strict-uri-encode": "^2.0.0",
+    "strip-hex-prefix": "^1.0.0",
+    "swarm-js": "^0.1.39",
+    "solc": "^0.4.25",
+    "web3": "^0.20.6",
+    "web3-core-helpers": "^1.0.0-beta.37",
+    "web3-core-method": "^1.0.0-beta.37",
+    "web3-core-requestmanager": "^1.0.0-beta.37",
+    "web3-eth-accounts": "^1.0.0-beta.37",
+    "web3-eth-ens": "^1.0.0-beta.37",
+    "web3-eth-iban": "^1.0.0-beta.37",
+    "web3-eth-personal": "^1.0.0-beta.37",
+    "web3-net": "^1.0.0-beta.37",
+    "web3-shh": "^1.0.0-beta.37",
+    "wrappy": "^1.0.2"
+  }
+}
